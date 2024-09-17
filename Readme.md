@@ -391,5 +391,8 @@ int rt_irq_init(void)
 
 
 
-[^1]:视频链接：https://www.bilibili.com/video/BV18ft4exEUc/?buvid=Y24C1F29669AC4514053B6345EC68E7BF127&is_story_h5=false&mid=XM5u4uiogouCEINUrZgPkA%3D%3D&plat_id=240&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1726499636&unique_k=eEOodxQ&up_id=677059901
-[^2]:GitHub仓库：https://github.com/lvv-i/-smart_home-system-by-RT-Thread
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**视频链接：**https://www.bilibili.com/video/BV18ft4exEUc/?buvid=Y24C1F29669AC4514053B6345EC68E7BF127&is_story_h5=false&mid=XM5u4uiogouCEINUrZgPkA%3D%3D&plat_id=240&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1726499636&unique_k=eEOodxQ&up_id=677059901
+
+**GitHub仓库**：https://github.com/lvv-i/-smart_home-system-by-RT-Thread
