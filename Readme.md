@@ -6,7 +6,7 @@
 
 星火一号：
 
-![image-20240910171116098](C:\Users\22192\AppData\Roaming\Typora\typora-user-images\image-20240910171116098.png)
+![image-20240910171116098](.\星火一号图.png)
 
 
 
@@ -22,7 +22,7 @@
 
 RW007接入网络后，星火一号通过MQTT协议连接上阿里云平台，发布由AHT10获取的温度，湿度话题，由AP3216C获取的光照强度话题被订阅到平台上，数据将实时更新并显示在lcd上，如图：
 
-<img src="C:\Users\22192\Desktop\MyFirst_project\lcd效果图.jpg" alt="lcd效果图" style="zoom: 50%;" />
+<img src=".\lcd效果图.jpg" alt="lcd效果图" style="zoom: 50%;" />
 
 
 
@@ -392,4 +392,4 @@ int rt_irq_init(void)
 
 
 [^1]:视频链接：https://www.bilibili.com/video/BV18ft4exEUc/?buvid=Y24C1F29669AC4514053B6345EC68E7BF127&is_story_h5=false&mid=XM5u4uiogouCEINUrZgPkA%3D%3D&plat_id=240&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1726499636&unique_k=eEOodxQ&up_id=677059901
-[^2]:GitHub仓库：https://github.com/lvv-i/smart_home-system-by-RT-Thread
+[^2]:GitHub仓库：https://github.com/lvv-i/-smart_home-system-by-RT-Thread
